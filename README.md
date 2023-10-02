@@ -18,4 +18,5 @@
 
 ## Code Example
 
+Use ScrollSmoother by <a href = "https://greensock.com/scrollsmoother/">Green Sock</a>
 
