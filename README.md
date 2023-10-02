@@ -20,3 +20,6 @@
 
 Use ScrollSmoother by <a href = "https://greensock.com/scrollsmoother/">Green Sock</a>
 
+<p align="center">
+<img src="https://github.com/RomanyanaSol/Fairy-Forest/blob/main/ScrollSmoother.jpg" >
+</p>
